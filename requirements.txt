@@ -1,7 +1,8 @@
 AHRS==0.3.1
-keyboard==0.13.5
+imufusion==1.2.8
+numpy==1.24.4
 numpy==1.21.5
 pygame==2.6.0
 PyOpenGL==3.1.7
+PyOpenGL==3.1.9
 pyserial==3.5
-scipy==1.8.0
